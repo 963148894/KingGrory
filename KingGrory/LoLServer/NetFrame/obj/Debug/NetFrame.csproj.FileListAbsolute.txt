@@ -1,0 +1,4 @@
+D:\courseProject\LoLServer\LOLServer\NetFrame\bin\Debug\NetFrame.dll
+D:\courseProject\LoLServer\LOLServer\NetFrame\bin\Debug\NetFrame.pdb
+D:\courseProject\LoLServer\LOLServer\NetFrame\obj\Debug\NetFrame.dll
+D:\courseProject\LoLServer\LOLServer\NetFrame\obj\Debug\NetFrame.pdb
